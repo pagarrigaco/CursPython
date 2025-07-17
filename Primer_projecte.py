@@ -1,0 +1,12 @@
+print("Hola mon!")
+print(100+50)
+print ('Estudiar con "Python Total" es super divertido')
+print("Línea 1\nLínea 2\nLínea 3\n")
+print("A\tB\tC")
+print("D\tE\tF")
+print("G\tH\tI")
+
+print("Digues el teu nom: ")
+print(input("Digues el teu nom: Pau"))
+print("El teu nom és  "+ input("Digues el teu nom: "))
+print("El teu nom és  "+ input("Digues el teu nom: ") + " " + input("Digues el teu cognom: "))

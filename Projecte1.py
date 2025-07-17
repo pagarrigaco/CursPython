@@ -1,0 +1,1 @@
+print("El nom de la teva cervesa és: \n"+ "\""+input("Quin és el teu color preferit? ") +" "+ input("Com es diu la ciutat on vius?")+ "\"")
