@@ -18,3 +18,4 @@ def es_primer(valor):
 numero = input("Introdueix el valor: ")
 numeros_primers = es_primer(int(numero))
 print (f"El total de números primers entre 0 i {numero} és de: {numeros_primers}")
+
